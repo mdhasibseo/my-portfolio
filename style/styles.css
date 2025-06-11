@@ -98,11 +98,10 @@ nav li a{
     padding: 130px;
     text-align: center;
 }
-.main
+
  .about-items{
      display: flex;
-     justify-content: space-around;
-    
+    justify-content: space-around;
 }
 
 /*skill-container*/
